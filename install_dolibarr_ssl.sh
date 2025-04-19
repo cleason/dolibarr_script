@@ -6,7 +6,7 @@ DB_USER="ahjv"
 DB_PASS="dP3yL5F6UcxehW9Cf0AU"
 DOLIBARR_DIR="/var/www/html/dolibarr"
 DOLIBARR_URL="https://sourceforge.net/projects/dolibarr/files/latest/download"
-DOMAIN_NAME="dolibarr.ahjv-tg.org"
+DOMAIN_NAME="erp.ahjv-tg.org"
 EMAIL="info@ahjv-tg.org"
 
 # === COULEURS ===
